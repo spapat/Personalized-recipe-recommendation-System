@@ -42,3 +42,10 @@ such as popular, breakfast & brunch, and so on. Such pre-existing food/recipe re
 systems, meanwhile, make suggestions based on the tastes of consumers as well as their dietary
 requirements. They do not, however, offer a weekly meal plan based on the user's food
 preferences. Further, they do not provide the current price of each ingredient.
+
+# Application Architecture
+
+![image](https://user-images.githubusercontent.com/85038944/126919028-ab7d4e5a-af02-4a5d-9570-c05c4c76d478.png)
+
+
+
