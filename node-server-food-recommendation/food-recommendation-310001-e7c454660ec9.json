@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-recommendation-310001",
+  "private_key_id": "e7c454660ec9c7ba9912f58cc34e9c03e0d89dad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbrd3naEvtfE0E\nglJcGLFeD/j2nnYUgI1J/PdKcD4NGoS7xatbgQqvTwjdlP5FGfEHvSeN+uM6j/62\nwUoity2fC5ML245y3g6gLdtDJfqaR5OdOWB/Sgt6QRng0/eP2J2Q0DzZRArBTDrk\n+KjKRqJQsU34RIaw7NoDEqmoQQcqU2+MBomH65edAo4KswB4ShjyJl0+jcUnedD/\nn78n/1dXZJN6PJ7QpW2Q1CFTJlZh9+MTm+LWCmymtUFfhdKfgU18Ly8N8QCQpHg6\nenhRts467pUcogEtqThEz2rDuuObI9XHgR81w9vRqoYGGJVLjrZnf+Hk1/u+Rxke\nf+ZvE4cfAgMBAAECggEAIKaxgPJpYqV4hGSNsumVUe/u0ae7e5BLL8WSczUb9pz2\nleWAnYD1t8PNWLM2AyBNc8MuF2DEbaZhtgPPAzpAZM92w4BBJm/nMvCjPSeZHV2T\nzP5uX3eqcrktYajaYWjRVpOqOk1uNHfM7c51trGT8N7Bl4ExQdJvvvLYVk1ABY61\nr+yYbSO9BD4gqgOGXipHh9vVOVOX5aCXxmhw0zS0Qm7u+7i2kOC0V1Z5sW75h5Dd\naS1Bq0TjE63IOowVb4wtP3t/vZcEXXF99nf4JZ35QAGxNl1ombGwf0BLK79CqE3k\naw/C1iPcfZMciTqBD+KMCAFIiZkRt07TruxX98bgxQKBgQDt6k74txNzzFes8uZx\nBgXpJuuQ302Siv5Fs5WtOQi3NHXTnUg8ahKVC3p2xHf/D56SCsgVT19+SyU0FIzV\nltJ/QRZDhcZOUvmR7Mdnl2JqDQ5n6n4U5X0HeIsaLF8cDhlGO5prQD9tB8BWONmS\nKd/K1YkRL1n92ORJhQfDjP4GLQKBgQDsYLHL6VaeOWuVaaslojHisLB4SSuxSykK\nn+jsZnDi3o6lXz4T7WAhb88W51YBwPAwNDIQakqXylHFwXmHofkn5vgovh+4fzCu\nhvoA+XQn0hy/r3DulC3DMI+klslZFdeI0vlIMifif1blSkuHDXUELlrTswlUlUns\nRj2bUC39+wKBgFw+lrP0N8SUHAJgg1ybGzuU7YzUJ72Dyqa3xHbPQEPYQT71Ioba\nEa5cLvVRo7zvD2pMZ9trVPkgpaIVva0qtx7D25/+hC7mGQGtLntJxMydl1JPJudv\nOxTkdfqF7bJw/PewMGUZGf5qHPbRP/pd5fk85dIV6+xyZcDjpWj6h5tZAoGAIbZs\nxTtjWi+wU1/9w+FNIhq3IIC3FZM1qElETCsUIJdDWvypeugZFMvAinC2CIv+9bEM\nDuFKADofzYeZkKmeQn2jmRP8rDCfvdSMZYUudtt1tDUOc0h4+mS7p+rFjsoZsm78\nlLpqi9hDiXI+MWXO8ai21YisZP7hyyv9b2BRHu8CgYEAkrhebh8RKDAwOGiH5Ewt\n7v6ZnK7MZXJF64x3LQsMBrNTTMoo3bSiey7Z/l6xWWg/8wIRY7870ZmPBvyLqq+6\nu4VJYvRR/1KXuOV4G7irLkPNJX12Mg7aBgeGLLeIMgt9u6e+pbTf1Yx2rO7cfRGf\nPt7JvDGk+ONDtOAtJH049Kw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "food-text-to-speech@food-recommendation-310001.iam.gserviceaccount.com",
+  "client_id": "113306608038019966640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/food-text-to-speech%40food-recommendation-310001.iam.gserviceaccount.com"
+}

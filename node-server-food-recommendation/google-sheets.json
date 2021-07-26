@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "food-recommendation-310001",
+  "private_key_id": "b81bec30b33fa68d80f5babcb18101426b7f11f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQClA8lA88kUu8AY\ntNEF+bg8F+6y+A+vz8cmwuGfzilpSTny9OqBkdPiwwTVEpvQ4c+bTtYvYfAw7FwB\n6EYSrGeLrUSlnAw1wBhiH0mv4TpNlAfK+pRPsbKb+yHJTQqIuyKcw3Df+I/zlxET\nql8PdHYJ2wS/n0eNynpFs0wCgQhSOkJtdZJmrMyJmoARfWngig2OllLH4aPfEcDo\ni06uCVreTlRzOYzdSLg3a7SF6qpknnUhhsSohizkoGIxH+UwqmphiOUCpAeYKmXu\nZTPAO5WT4NnA7hjfGicrSOGm6cFwBs1XnBE2/LY7vYtbR6Q9XJ0Wgjot+UbkCkOY\nLcahUPllAgMBAAECggEAHWkrF99Ljd03y/+ASM0dI+LNGctiOl7xWyx9W8b6NQiG\n4lF6MY1NA1voctSd/nEc2EzJGoldbs7VyEY+pQni669+bnj9aSAbiHOUpdsiEd0q\nNWiLghfFIo10VGVdlQirjt67scOi3pLkiYmCZ2YFutR1SHUKYxB9Ugp2p/SZB9SO\nSHkZ8e51WNmsKt0rk6ULEhJOPpZ81ASLTmCt/o2IPf3EMfKMOSVF7s0iL0xGECU5\ndnNSWIPYAhh0Tzq81GqNRTdjtP2938amecBgtjU2SXIQqyCYU9XozeaNFh6IMAtH\nM0LFDuS9BdgaZgn36E4oQkzBs6CPVo+OQnxmbWMmGQKBgQDjkQFKQzTci4Durg2A\n3R3z8yVwLiayuOU8lMZAaak343jnnKaNbXboDfSYDfhmYne5iKPovns73GtQ5fAQ\nRcXTnAj7n3CZjCwU9dM5mZNv1bJWSQPDc7wiUHGiDqoryYrLtepa7yd5s44lDjjy\nJlXTPAvymbZLVKANCvdLP7gTGQKBgQC5of1Bb9gDS04xvS1qyjfDsUAgDQs1CPkc\nQODMmbeopyVObKs4/vjcZ/gqjosGqSMTbGDxbcL6gFOQ+YDdxh1EIqKoBNt+Rork\nvpUn5OX5RWSHjTZbb92rAHPYzC6i73uzHYGOAXEil5QjdVZR073jPS27Fiu9twf3\nPsPZocROLQKBgQC/BgjEMtgbzcrEEDzrkDFFhzRFD6iSW9yp1uT4SvmuHXdvTLMO\ngvXOY3CPdyKtpziC+K1GgSbnH+bBuNKkhj1CnXd46OTXL7ANRDEz57O4q/SQs6fC\nGNOzJj3M4Gx+ZyboS2NXQ+uqIExQ1Lh+pCllMMGCuv8oCvhzGmJtuyYkeQKBgQCf\nckh6QHsmuTQ8/OVZ6L/lUwZlgU6zCzYN0pxEoXRjZM5igmy/1CImDxfWVgGMgxMh\nx+Gs/j6PtFITIHxUAat5rtZPw3xVBnqe6CRt0+rFJZmn5N9fwsJ/8y+OdDNKuLFj\ntGBnfU2UDOatXkf6mQltekshe3WuytwIvtyyvoRDMQKBgQC2Krsd0RsKQYKVl1rs\nCA0CzmHEBs+9XtAMR4i8jN2YZlOpeZD6uEl60avLI2AVGmrxA2WWYB1drbD2o9cU\n2jT2wFca4lHw/LN3Ey3m2xCH/tizXiKCcJInAFP58THb7uHH3EHHssVuvTR1ryuo\nQCNCOzn+UB36SIu+5/Mit89n+A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-spread-sheet@food-recommendation-310001.iam.gserviceaccount.com",
+  "client_id": "110148001066510354032",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-spread-sheet%40food-recommendation-310001.iam.gserviceaccount.com"
+}
